@@ -1,0 +1,10 @@
+github.com/agnivade/levenshtein v1.1.1 h1:QY8M92nrzkmr798gCo3kmMyqXFzdQVpxLlGPRBij0P8=
+github.com/agnivade/levenshtein v1.1.1/go.mod h1:veldBMzWxcCG2ZvUTKD2kJNRdCk5hVbJomOvKkmgYbo=
+github.com/arbovm/levenshtein v0.0.0-20160628152529-48b4e1c0c4d0 h1:jfIu9sQUG6Ig+0+Ap1h4unLjW6YQJpKZVmUzxsD4E/Q=
+github.com/arbovm/levenshtein v0.0.0-20160628152529-48b4e1c0c4d0/go.mod h1:t2tdKJDJF9BV14lnkjHmOQgcvEKgtqs5a1N3LNdJhGE=
+github.com/dgryski/trifles v0.0.0-20200323201526-dd97f9abfb48 h1:fRzb/w+pyskVMQ+UbP35JkH8yB7MYb4q/qhBarqZE6g=
+github.com/dgryski/trifles v0.0.0-20200323201526-dd97f9abfb48/go.mod h1:if7Fbed8SFyPtHLHbg49SI7NAdJiC5WIA09pe59rfAA=
+github.com/fyfishie/dorapock v0.0.6 h1:1ncdSepxwcRxIF35yvHuhZYa0u6Q2YNYQKx/FqSpgIA=
+github.com/fyfishie/dorapock v0.0.6/go.mod h1:GT4ovxGIexba1di8oyNbPUtLlT4DnRhnvB2cuPcP4TU=
+github.com/fyfishie/ipop v0.0.3 h1:GFF8ct/HYwpEXbg7Ogh/Uv/63juc7NU40KguC5u7zVI=
+github.com/fyfishie/ipop v0.0.3/go.mod h1:5wnY7HnJ/8WyzrpCJwat/+Re7/pGIBlng7bShuVLKtM=
