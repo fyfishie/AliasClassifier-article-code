@@ -1,0 +1,22 @@
+top consist:
+valid scale: 20
+consist scale: 20
+
+second consist:
+valid scale: 20
+consist scale: 1
+
+sub valid scale: 20
+sub consist scale: 0
+
+top consist:
+valid scale: 20
+consist scale: 20
+
+second consist:
+valid scale: 20
+consist scale: 1
+
+sub valid scale: 20
+sub consist scale: 0
+

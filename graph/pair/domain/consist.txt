@@ -1,0 +1,22 @@
+top consist:
+valid scale: 39
+consist scale: 91
+
+second consist:
+valid scale: 39
+consist scale: 85
+
+sub valid scale: 39
+sub consist scale: 64
+
+top consist:
+valid scale: 39
+consist scale: 91
+
+second consist:
+valid scale: 39
+consist scale: 85
+
+sub valid scale: 39
+sub consist scale: 64
+
